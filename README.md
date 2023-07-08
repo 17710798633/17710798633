@@ -1,16 +1,16 @@
-### Hi there 👋
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello!
 
-<!--
-**17710798633/17710798633** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center" >
+  <samp>
+    My name is <em>Alex</em>. I am a Fullstack 'n' mobile developer... 
+  <br/> Javascript enthusiast... ReactJs lover. React Native addict. 
+    <br/> (<em>ex</em>)Fulltime student.
+      <br/>
+Creating games for fun, composing songs,
+          <br/>
+continuously learning, wanting to help the community
+  </samp>
+  <br/>
+  <br/>
+  <br/>
+</p>
